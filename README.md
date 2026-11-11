@@ -1,26 +1,24 @@
 # Mirrorwork
 
-## Purpose
-A browser-based card-matching memory game featuring five procedurally drawn decks.
+A card-matching memory game with five decks, every card drawn by code. Also one of the nine volumes in The Compendium II.
 
-## Project status
-**Active status: awaiting owner confirmation.** This repository is being retained. It is not marked abandoned or approved for archival.
+**Open it:** https://connex222.github.io/MIRRORWORK/
 
-## How to open
-This project includes a root `index.html` browser page. For a basic local preview, download the repository, extract it, and open `index.html` in a modern browser. Any hosting or browser-specific requirements still need to be checked.
+## How to use it
 
-## Maintenance and release notes
-- **Main branch:** `main`.
-- **Live website:** not verified during this documentation audit.
-- **Deployment method:** not verified.
-- **Automated tests:** not yet audited.
-- **Licence:** not yet reviewed; no reuse rights are implied.
+1. Open the link above in Chrome, Edge or Safari, on a phone, tablet or computer.
+2. On a phone, use the browser's **Add to Home Screen** option to keep it one tap away.
 
-## Housekeeping policy
-This README was added on a separate documentation review branch. It does not modify the application, existing assets, deployment settings or the `main` branch. Do not rename, merge, archive or delete this repository without explicit review.
+Or download `index.html` and open it straight from your device. Everything is in that one file.
 
-## Next checks
-- Confirm the intended audience and whether the project is currently live.
-- Verify the website address and publishing method, if any.
-- Check the actual setup, testing and browser requirements.
-- Review repository visibility and licensing with the owner.
+## Saving
+
+Your best scores and settings are saved on the device you play on. Your data is not sent anywhere. Clearing the browser's data deletes it.
+
+## Made by
+
+Shaun Ellison ([portfolio](https://connex222.github.io)).
+
+## For developers and AI assistants
+
+See `CLAUDE.md` for the build rules.
