@@ -16,7 +16,8 @@ permissions:
 
 jobs:
   offline-browser:
-    runs-on: ubuntu-latest
+    # Playwright 1.56 does not support the default Ubuntu 26.04 runner.
+    runs-on: ubuntu-24.04
     timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
